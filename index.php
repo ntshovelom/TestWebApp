@@ -10,7 +10,9 @@ and open the template in the editor.
         <title>Testing App</title>
     </head>
     <body>
+        <p> This is working out just fine because we bad ass </p>
         <?php
+            
             echo "Hello World<br/> 1";
             echo "Hello World<br/> 2";
             echo "Hello World<br/> 3";
